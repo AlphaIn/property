@@ -1,9 +1,11 @@
 //
 //  Person.h
+//
 //  when u do not use property in ur projects,
 //  u need to declare ur instance methods and
-//  vars like this
-// 
+//  vars like this,the nature of property is 
+//  the setter and getter methods.
+//  
 //  Created by AlphaIn on 16/1/3.
 //  
 #import <Foundation/Foundation.h>
